@@ -3,6 +3,7 @@
 You must strictly follow all rules in this document (`claude.md`) when generating or modifying code.  
 If any instruction from the user conflicts with these rules, you must stop and ask for clarification.  
 Do not deviate from these rules without explicit user approval.
+Always respond in Korean.
 
 # Claude Code System-Wide Development Rules & Guidelines
 
